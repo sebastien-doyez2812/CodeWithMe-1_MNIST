@@ -26,7 +26,7 @@ python test.py
 ```
 
 ## Links
-- 📺 **YouTube Tutorial:** [Watch Here](https://www.youtube.com/watch?v=cmdkT3yRFFA&t=93s)
+- 📺 **YouTube Tutorial:** [Watch Here](https://www.youtube.com/watch?v=cmdkT3yRFFA&t)
 
 ---
 Enjoy learning about CNNs! 🚀
